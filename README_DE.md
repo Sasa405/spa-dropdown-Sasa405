@@ -1,15 +1,17 @@
 # Dropdown
 
-1. Erstelle eine Seite über deinen Lieblingsfilmregisseur mit einer **Header** und einer **Dropdown-Navigation**.
+1. Eine Seite über meinen Lieblingsfilmregisseur mit einem **Header** und einer **Dropdown-Navigation**.
 
-1. Verwende die mitgelieferte Datei `index.html` und erstelle eine JavaScript-Datei für deinen Code.
+2. Verwendung Datei `index.html` und erstellung einer JavaScript-Datei .
 
-1. Halte dich an semantisches HTML, indem du deine Navigation in ein `nav`-Tag einbindest.
+3. Semantisches HTML, indem ich meine Navigation in ein `nav`-Tag einbinde.
 
-1. Jeder Dropdown-Navigationspunkt sollte ein Film sein (von deinem Lieblingsregisseur) und eine Liste der 3 Hauptdarsteller des Films anzeigen, wenn du darauf klickst.
+4. Jeder Dropdown-Navigationspunkt wird ein Film sein (von meinem Lieblingsregisseur) und eine Liste der 3 Hauptdarsteller des Films anzeigen, wenn ma darauf klickt.
 
-1. **Optional:** Style nach deinem Gefallen.
 
-> Tipp: Schau dir die Darstellung unten an, um eine Vorstellung davon zu bekommen, wie dein Ergebnis aussehen sollte.
+Eine kleine Vorstellung davon,  wie mein Ergebnis aussieht.
 
-![demo](demo.gif)
+
+
+
+[Screencast from 01.12.2023 12:53:32.webm](https://github.com/fbw-d09/spa-dropdown-Sasa405/assets/118745186/c41388ad-2f39-4c7e-bbba-dbf2bbdee632)
